@@ -1,0 +1,10 @@
+ Volume in drive C is RAMARAO
+ Volume Serial Number is D4F2-D5FB
+
+ Directory of C:\Users\Jayamrao\Desktop\MyProject
+
+06/07/2021  09:04 PM    <DIR>          .
+06/07/2021  09:04 PM    <DIR>          ..
+06/07/2021  09:04 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     247,783,424 bytes free
